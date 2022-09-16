@@ -3,7 +3,7 @@
 """
 Created on Thu Mar 31 21:40:11 2022
 
-@author: nayzaw
+@author: Nay Zaw Aung Win
 """
 
 # third file of addiction study project
