@@ -17,7 +17,7 @@ from nltk.corpus import stopwords
 nltk.download('punkt')
 #from sentence_transformers import SentenceTransformer, util
 #from transformers import AutoTokenizer
-from addictionStudy import getTopNGrams
+from get_n_grams import getTopNGrams
 import operator
 import re
 

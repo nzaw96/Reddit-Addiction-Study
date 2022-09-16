@@ -3,9 +3,9 @@
 """
 Created on Fri Mar 25 16:06:43 2022
 
-@author: nayza
+@author: Nay Zaw Aung Win
 """
-# Code originally from Professor Manikonda
+# Code adapted from Professor Manikonda's original code
 
 import pandas as pd
 import datetime
